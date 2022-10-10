@@ -1,0 +1,18 @@
+.one {
+  line-height: 2.5em;
+}
+.two {
+  letter-spacing: 5px;
+}
+.three {
+  word-spacing: 30px;
+}
+h1 {
+  text-transform: uppercase;
+}
+body {
+  text-transform: lowercase;
+}
+a {
+  text-decoration: none; 
+}
